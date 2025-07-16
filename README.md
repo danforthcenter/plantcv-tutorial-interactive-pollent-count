@@ -2,7 +2,7 @@
 
 [![test-pr](https://github.com/danforthcenter/plantcv-tutorial-interactive-pollent-count/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-interactive-pollent-count/actions/workflows/ci-tests.yml)
 
-Tutorial for using the semi-automated pollen counting tool in PlantCV
+Tutorial for using the semi-automated pollen counting tool in PlantCV.
 
 View in Binder
 
